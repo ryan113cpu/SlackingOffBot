@@ -1,0 +1,12 @@
+{
+  "name": "slacking-parrot-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^5.1.0",
+    "dotenv": "^18.0.4"
+  }
+}
